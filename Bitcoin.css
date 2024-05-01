@@ -1,0 +1,27 @@
+
+.container{
+   
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100%;
+        background: #615b5b;
+
+}
+.card-box{
+
+    min-width:400px;
+    /* border: 5px solid #615b5b; */
+    
+    /* border: 5px solid #f0f0f0; */
+
+    /* border: 2px solid red; */
+}
+
+.select-box{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
